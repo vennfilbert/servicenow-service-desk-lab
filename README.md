@@ -92,3 +92,4 @@ resolution, verification, when to escalate) and describes a real, standard proce
 - Escalated a VPN connectivity incident to the Network team after L1 troubleshooting, left In Progress rather than resolved.
 - Logged and escalated a Priority 1 major incident (site-wide shared drive outage) straight to Network, demonstrating major incident triage.
 - Verified the instance calculates priority from impact and urgency, and documented the matrix as configured rather than assumed.
+- Published the knowledge base and README to GitHub, uploaded the screenshots, and embedded the ticket overview in the README. Repo now public and complete.
