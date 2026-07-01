@@ -38,6 +38,8 @@ Seven tickets built end to end (INC0010006 to INC0010012):
 
 Five handled at the service desk, two escalated (one standard, one major incident).
 
+![All seven tickets handled end to end](screenshots/all-tickets-overview.png)
+
 ## Priority matrix (as observed in this instance)
 
 Priority is calculated automatically from Impact and Urgency. These are the combinations
@@ -59,6 +61,15 @@ Six articles for common L1 tasks, in [servicenow-knowledge-base.md](servicenow-k
 account lockout, password reset, VPN connection, Outlook profile repair, shared drive
 access, and new starter onboarding. Each follows a consistent structure (symptom, cause,
 resolution, verification, when to escalate) and describes a real, standard procedure.
+
+## Screenshots
+
+- \`all-tickets-overview.png\` — all seven tickets in the incident list, showing the priority spread and the P1 major incident.
+- \`01-view-switch.png\` — switching the incident list from Self Service to Default view to expose the full analyst field set.
+- \`02-incident-logged.png\` — an incident logged with caller, category, impact and urgency set, and priority auto-calculated.
+- \`03-incident-resolved.png\` — the same incident resolved with a resolution code and resolution notes.
+- \`04-vpn-escalation.png\` — an incident diagnosed at L1 then escalated to the Network team when the fault was out of scope.
+- \`05-p1-major-incident.png\` — a site-wide outage logged as a P1 critical major incident.
 
 ## Build log
 ### Thursday 25 June 2026
